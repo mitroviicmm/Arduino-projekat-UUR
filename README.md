@@ -109,8 +109,7 @@ Projekat je realizovan u edukativne svrhe kao studentski projekat, radili Milica
 
 VIDEO:
 
-
-Uploading snimak1.mp4…
+https://github.com/user-attachments/assets/d47b664f-ff49-4c26-aca0-8f663c95cecb
 
 
 
