@@ -110,11 +110,17 @@ Projekat je realizovan u edukativne svrhe kao studentski projekat, radili Milica
 VIDEO:
 
 
-https://github.com/user-attachments/assets/eeb2fbe8-9f26-4849-acb3-e3d7e89bbd45
-
+Uploading snimak1.mp4…
 
 
 
 https://github.com/user-attachments/assets/280b1217-1f68-4a89-90ae-820ad79f4d67
+
+
+IMAGES:
+
+![image1](https://github.com/user-attachments/assets/078917d4-50d3-4613-b791-e958001bb695)
+![image3](https://github.com/user-attachments/assets/4c87ffc9-e781-47c6-be33-df0dd11618a5)
+![image2](https://github.com/user-attachments/assets/217109f1-bd9a-4dcb-bff6-b7c56e6b7e4a)
 
 
