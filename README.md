@@ -1,16 +1,16 @@
 Arduino Robot Car – Motor Shield, Ultrazvučni Senzor i Servo Motor
 
-Ovaj projekat predstavlja autonomni robot-autić baziran na Arduino Uno ploči i Motor Control Shield-u (L293D). Sistem koristi dva DC motora za kretanje, ultrazvučni senzor HC-SR04 za merenje rastojanja i servo motor za pomeranje dodatka (zastavica ili nosač senzora).
+Ovaj projekat predstavlja autonomni robot-autić baziran na Arduino Uno ploči i Motor Control Shield-u (L293D). Sistem koristi dva DC motora za kretanje, ultrazvučni senzor HC-SR04 za merenje rastojanja i servo motor za pomeranje dodatka (nosač senzora).
 
 Projekat je realizovan kao kombinacija kupljenih i postojećih komponenti, uz samostalno sklapanje hardvera i pisanje koda.
 
-Nabavka delova
+Nabavka delova:
 
 Šasija robota i DC motori naručeni su sa AliExpress-a.  
 Ultrazvučni senzor HC-SR04 i servo motor kupljeni su u lokalnoj prodavnici u Beogradu.  
 Arduino Uno, Motor Control Shield, kablovi i napajanje su već bili dostupni.
 
-Arhitektura sistema
+Arhitektura sistema:
 
 Sistem se sastoji od tri osnovne celine:
 
