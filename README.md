@@ -104,3 +104,17 @@ Projekat može poslužiti kao osnova za dalje proširenje i učenje robotike.
 Autor:
 
 Projekat je realizovan u edukativne svrhe kao studentski projekat, radili Milica Mitrovic i Lazar Stojanovic.
+
+
+
+VIDEO:
+
+
+https://github.com/user-attachments/assets/eeb2fbe8-9f26-4849-acb3-e3d7e89bbd45
+
+
+
+
+https://github.com/user-attachments/assets/280b1217-1f68-4a89-90ae-820ad79f4d67
+
+
